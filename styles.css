@@ -37,3 +37,12 @@ h1{
   margin: 10px;
   background-color: #cbf1f5;
 }
+
+
+
+@media (max-width: 900px) {
+  .container-fluid{
+    padding: 7% 15%;
+  }
+
+}
